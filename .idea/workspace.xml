@@ -4,16 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9776905-3488-4ca4-92d5-5d13cf06bcf8" name="Changes" comment="" />
+    <list default="true" id="b9776905-3488-4ca4-92d5-5d13cf06bcf8" name="Changes" comment="Initial commit3.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d2b83fb9-6f42-4012-9563-b9dec6e64f25" />
+        <option name="url" value="https://github.com/valitovgaziz/WebYalArba2.0.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LpIcVcwbA27tYzEQCavRZsmcRz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,11 +67,42 @@
       <workItem from="1676563623374" duration="145000" />
       <workItem from="1676563811247" duration="1117000" />
       <workItem from="1676608379887" duration="340000" />
-      <workItem from="1676639726525" duration="3621000" />
+      <workItem from="1676639726525" duration="5276000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit2.">
+      <created>1676645071478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676645071478</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit3.">
+      <created>1676645124844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676645124844</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit2." />
+    <MESSAGE value="Initial commit3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit3." />
   </component>
 </project>
